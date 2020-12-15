@@ -1,1 +1,2 @@
-# helpdesk_native_mvc
+# helpdesk
+Aplikasi Helpdesk menggunakan codeignier
